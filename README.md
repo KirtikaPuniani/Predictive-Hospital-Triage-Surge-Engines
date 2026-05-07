@@ -3,3 +3,12 @@ A hybrid predictive–prescriptive framework for hospital triage and resource op
 
 
 Integrated ICU clinical data with external environmental signals (weather + epidemiological trends) to improve surge prediction accuracy.
+
+
+
+
+
+
+
+
+
