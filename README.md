@@ -3,3 +3,7 @@ A hybrid predictive–prescriptive framework for hospital triage and resource op
 
 
 Integrated ICU clinical data with external environmental signals (weather + epidemiological trends) to improve surge prediction accuracy.
+
+Data Sources used in this project:
+1. MMIC Hospital Data
+2. Weather Data
