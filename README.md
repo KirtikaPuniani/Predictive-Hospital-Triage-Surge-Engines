@@ -7,3 +7,12 @@ Integrated ICU clinical data with external environmental signals (weather + epid
 Data Sources used in this project:
 1. MIMIC Hospital Data
 2. Weather Data
+
+
+
+
+
+
+
+
+
